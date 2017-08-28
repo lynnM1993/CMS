@@ -1,0 +1,8 @@
+# manager
+用iview+vue+axios+node+mongodb。。。。。实现一个后台管理系统。
+实现用户的增删改查。
+新闻的增删改查、评论的增删改查。
+文件上传
+下载后，在cli文件下 npm i  下载依赖 npm run dev 开启项目
+在server文件夹下  npm i 下载依赖  如果安装了supervisor   supervisor ./bin/www 开启服务器。
+										没安装supervisor   npm run start 开启服务器
